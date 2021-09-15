@@ -1,0 +1,17 @@
+pacages I installed
+
+axios: used for API ingeneral look at DOCs (https://axios-http.com/docs/intro)
+
+react-router-dom: used for making the routes and creating SPA look at DOCs (https://reactrouter.com/web/guides/quick-start)
+
+redux: handling the movment data inside the big Apps look at the DOCs (https://redux.js.org/)
+
+react-redux: for using the Redux with react 
+
+redux-thunk
+
+redux-devtools-extension:
+
+moment: 
+
+react-moment:
